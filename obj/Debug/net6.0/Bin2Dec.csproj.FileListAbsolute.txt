@@ -1,0 +1,15 @@
+D:\C#\Bin2Dec\bin\Debug\net6.0\Bin2Dec.exe
+D:\C#\Bin2Dec\bin\Debug\net6.0\Bin2Dec.deps.json
+D:\C#\Bin2Dec\bin\Debug\net6.0\Bin2Dec.runtimeconfig.json
+D:\C#\Bin2Dec\bin\Debug\net6.0\Bin2Dec.dll
+D:\C#\Bin2Dec\bin\Debug\net6.0\Bin2Dec.pdb
+D:\C#\Bin2Dec\obj\Debug\net6.0\Bin2Dec.csproj.AssemblyReference.cache
+D:\C#\Bin2Dec\obj\Debug\net6.0\Bin2Dec.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bin2Dec\obj\Debug\net6.0\Bin2Dec.AssemblyInfoInputs.cache
+D:\C#\Bin2Dec\obj\Debug\net6.0\Bin2Dec.AssemblyInfo.cs
+D:\C#\Bin2Dec\obj\Debug\net6.0\Bin2Dec.csproj.CoreCompileInputs.cache
+D:\C#\Bin2Dec\obj\Debug\net6.0\Bin2Dec.dll
+D:\C#\Bin2Dec\obj\Debug\net6.0\refint\Bin2Dec.dll
+D:\C#\Bin2Dec\obj\Debug\net6.0\Bin2Dec.pdb
+D:\C#\Bin2Dec\obj\Debug\net6.0\Bin2Dec.genruntimeconfig.cache
+D:\C#\Bin2Dec\obj\Debug\net6.0\ref\Bin2Dec.dll
